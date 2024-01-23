@@ -33,6 +33,12 @@
  --> Update store with trailer video data
  --> Embedded the youtube video and make it autoplay and mute
  --> Tailwind  classes to make main container awesome
+ --> Build Secondary Container
+ --> Build Movies List
+ --> Build Movies Card
+ --> TMDB Imgae CDN
+ --> Made browse Page amazing with tailwind CSS
+ --> usePopular && use TopRated && useUpcoming movies Hook
 
 
 # TMDB
@@ -40,6 +46,8 @@
    --> Password: BePositive913*
    --> API Key (008ffa64c2acd81d26a4cdf67887c274)
    --> Access Token (eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwMDhmZmE2NGMyYWNkODFkMjZhNGNkZjY3ODg3YzI3NCIsInN1YiI6IjY1YWU0Mzg5YWQ1OWI1MDBhYzgyZjQwMCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.gHf_FCbrvVZp-H4rtyAPjygDifJs21sAiD_LKv6LYEE)
+   --> Poster Images: https://developer.themoviedb.org/docs/image-basics
+
 # Miscelleous
   --> rafce(react arrow function component export)
   --> Go to view --> Command Palette --> Format Document with --> select Prettier - Code Formatter
