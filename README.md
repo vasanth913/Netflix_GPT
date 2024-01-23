@@ -18,7 +18,28 @@
  --> Update Profile API
  --> Fetch movies from TMDB movies
  --> TMDB Api (https://developer.themoviedb.org/reference/intro/getting-started)
+ --> BugFix: Sign up user displayName and profile picture update
+ --> BugFix: If the user is not logged in redirect /browse to login page and vice versa
+ --> UnUnsubscribed to the onAuthStateChanged callback
+ --> Add Hardcoded values to the constant file
+ --> Deployed the application in vercel (https://netflix-gpt-black.vercel.app/)
+ --> Register TMDB API & create an app & get access token
+ --> Get data from TMDB, now playing movies list API
+ --> Custom Hook (nowPlayingMovies and movieTrailer)
+ --> Create movieSlice
+ --> Updated store with movies data
+ --> Planning for mainContainer and secondaryContainer
+ --> Fetch Data for trailer Video
+ --> Update store with trailer video data
+ --> Embedded the youtube video and make it autoplay and mute
+ --> Tailwind  classes to make main container awesome
 
+
+# TMDB
+   --> Username: vasanth_ravi
+   --> Password: BePositive913*
+   --> API Key (008ffa64c2acd81d26a4cdf67887c274)
+   --> Access Token (eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwMDhmZmE2NGMyYWNkODFkMjZhNGNkZjY3ODg3YzI3NCIsInN1YiI6IjY1YWU0Mzg5YWQ1OWI1MDBhYzgyZjQwMCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.gHf_FCbrvVZp-H4rtyAPjygDifJs21sAiD_LKv6LYEE)
 # Miscelleous
   --> rafce(react arrow function component export)
   --> Go to view --> Command Palette --> Format Document with --> select Prettier - Code Formatter
