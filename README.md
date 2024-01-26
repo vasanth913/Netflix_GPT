@@ -39,7 +39,9 @@
  --> TMDB Imgae CDN
  --> Made browse Page amazing with tailwind CSS
  --> usePopular && use TopRated && useUpcoming movies Hook
-
+ --> GPT Search page
+ --> GPT Search Bar
+ --> Multi-Language Feature in our App
 
 # TMDB
    --> Username: vasanth_ravi
