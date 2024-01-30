@@ -8,8 +8,7 @@ export const API_OPTIONS = {
   method: "GET",
   headers: {
     accept: "application/json",
-    Authorization:
-      "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwMDhmZmE2NGMyYWNkODFkMjZhNGNkZjY3ODg3YzI3NCIsInN1YiI6IjY1YWU0Mzg5YWQ1OWI1MDBhYzgyZjQwMCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.gHf_FCbrvVZp-H4rtyAPjygDifJs21sAiD_LKv6LYEE",
+    Authorization: "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwMDhmZmE2NGMyYWNkODFkMjZhNGNkZjY3ODg3YzI3NCIsInN1YiI6IjY1YWU0Mzg5YWQ1OWI1MDBhYzgyZjQwMCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.gHf_FCbrvVZp-H4rtyAPjygDifJs21sAiD_LKv6LYEE",
   },
 };
 
@@ -20,3 +19,7 @@ export const SUPPORTED_LANGUAGES = [
   { identifier: "hindi", name: "Hindi" },
   { identifier: "es", name: "Spanish" },
 ];
+
+export const OPENAI_KEY = process.env.REACT_APP_OPENAI_KEY;
+
+export const GOOGLE_API_KEY = "AIzaSyC5ewJhNIFpTpahDEYndKSRPHPrWSeAGBE";

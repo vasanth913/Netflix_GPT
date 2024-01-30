@@ -42,6 +42,9 @@
  --> GPT Search page
  --> GPT Search Bar
  --> Multi-Language Feature in our App
+ --> GptSearch API (Gemini API & openAI)
+ --> Storing Secrets in .env
+ --> Memoization
 
 # TMDB
    --> Username: vasanth_ravi
@@ -50,6 +53,11 @@
    --> Access Token (eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwMDhmZmE2NGMyYWNkODFkMjZhNGNkZjY3ODg3YzI3NCIsInN1YiI6IjY1YWU0Mzg5YWQ1OWI1MDBhYzgyZjQwMCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.gHf_FCbrvVZp-H4rtyAPjygDifJs21sAiD_LKv6LYEE)
    --> Poster Images: https://developer.themoviedb.org/docs/image-basics
 
+# ChatGpt
+   --> Open AI Url : https://platform.openai.com/docs/overview
+   --> https://www.npmjs.com/package/openai
+   --> Google AI Url : https://ai.google.dev/tutorials/web_quickstart
+   
 # Miscelleous
   --> rafce(react arrow function component export)
   --> Go to view --> Command Palette --> Format Document with --> select Prettier - Code Formatter
