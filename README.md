@@ -43,8 +43,14 @@
  --> GPT Search Bar
  --> Multi-Language Feature in our App
  --> GptSearch API (Gemini API & openAI)
- --> Storing Secrets in .env
+ --> Gpt Search API call
+ --> Fetched gptMovieSuggestions from TMDB
+ --> Created gptSlice added data
+ --> Reused Movie List Component to make movie suggestion container
+ --> Added and storing secrets in .env
+ --> Added .env file to .gitignore
  --> Memoization
+ --> Made our site Responsive
 
 # TMDB
    --> Username: vasanth_ravi
@@ -57,6 +63,9 @@
    --> Open AI Url : https://platform.openai.com/docs/overview
    --> https://www.npmjs.com/package/openai
    --> Google AI Url : https://ai.google.dev/tutorials/web_quickstart
+
+# Responsiveness
+   --> Default is for Mobile, sm is for Tablet, md is for Desktop
    
 # Miscelleous
   --> rafce(react arrow function component export)
